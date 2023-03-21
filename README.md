@@ -4,4 +4,4 @@ This is the Tic-Tac-Toe game desinged for two humans to play in front of the com
 It takes input from the users alternatively\
 It prints the board every time a player enters an input\
 The positions in the grid are matched with the numpad\
-Here is the numpad attached for your reference\
+Here is the numpad attached for your reference
